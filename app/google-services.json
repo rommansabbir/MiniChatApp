@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581002857601",
+    "firebase_url": "https://minichatapp-c3df8.firebaseio.com",
+    "project_id": "minichatapp-c3df8",
+    "storage_bucket": "minichatapp-c3df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581002857601:android:4a488b40e3364ae8",
+        "android_client_info": {
+          "package_name": "com.rommansabbir.minichatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581002857601-rs332s742r1kpe7g9tdrumci7mo5iulp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rommansabbir.minichatapp",
+            "certificate_hash": "7d646d87a82fac1f3cefc6c5e62106019eaacb2a"
+          }
+        },
+        {
+          "client_id": "581002857601-i7o1reqhb01prk2e122vk4nb432vk0sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRUHRS1fNy9t3-KtSmjfRoTa2h_Hd2Xkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581002857601-i7o1reqhb01prk2e122vk4nb432vk0sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
